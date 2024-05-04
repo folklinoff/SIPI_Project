@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_name_of_your_project">Name of your project</string>
+    <string name="tv_deadline">Deadline</string>
+    <string name="tv_name">Лейла Каримова</string>
+    <string name="tv_work_hours">Work hours</string>
+    <string name="tv_done_tasks">Done tasks</string>
+    <string name="tv_memories">Memories</string>
+    <string name="tv_sign_in_to_another_account">Sign in to another account</string>
+    <string name="tv_email">lelakarim@work.ru</string>
+    <string name="tv_phone">8-999-00-00</string>
+    <string name="tv_locations">Locations</string>
+</resources>
